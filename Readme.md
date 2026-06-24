@@ -99,7 +99,7 @@ The YOLOv5 base code is © Ultralytics, also licensed under AGPL-3.0.
 
 ---
 
-## Acknowledgements
+## Acknowledgments
 
 - [Ultralytics YOLOv5](https://github.com/ultralytics/yolov5)
 - [UA-DETRAC Benchmark](http://detrac-db.rit.albany.edu/)
